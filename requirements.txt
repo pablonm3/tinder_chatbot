@@ -61,7 +61,7 @@ torch==1.6.0
 tqdm==4.48.2
 transformers==3.0.2
 Unidecode==1.1.1
-urllib3==1.25.10
+urllib3==1.26.5
 wandb==0.9.4
 wasabi==0.7.1
 watchdog==0.10.3
